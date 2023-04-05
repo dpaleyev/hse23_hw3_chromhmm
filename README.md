@@ -50,49 +50,49 @@ A549 | H3K27me3 | H3K27me3.bam | Control.bam
 
 ## Эпигенетические типы
 
-### Active Promoter 
+### Тип 1: Active Promoter 
 ![Image](/GenomeBrowser/state_1.png)
 Выражен в H3K27me3, H3K4me3, H3K4me2. Попадает на интрон или экзон.
-### Weak enhancer/Weak transcribed 
+### Тип 2: Weak enhancer/Weak transcribed 
 ![Image](/GenomeBrowser/state_2.png)
 Выражен в H3K4me2, H3K4me1. Попадает на интрон. 
-### Strong enhancer/Transcriptional elogation 
+### Тип 3: Strong enhancer/Transcriptional elogation 
 ![Image](/GenomeBrowser/state_3.png)
 Выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2, H3K4me1. Попадает на интрон. 
-### Active Promoter 
+### Тип 4: Active Promoter 
 ![Image](/GenomeBrowser/state_4.png)
 Выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2. Попадает на интрон или экзон. 
-### Active Promoter 
+### Тип 5: Active Promoter 
 ![Image](/GenomeBrowser/state_5.png)
 Выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2. Попадает на интрон или экзон.
-### Weak enhancer 
+### Тип 6: Weak enhancer 
 ![Image](/GenomeBrowser/state_6.png)
 Выражен в H3K79me2, H3K9ac, H3K27ac, H3K4me3, H3K4me2. Попадает на интрон.
-### Weak enhancer
+### Тип 7: Weak enhancer
 ![Image](/GenomeBrowser/state_7.png)
 Выражен в H3K9ac, H3K27ac, H3K4me1. Попадает на интрон.
-### Weak enhancer 
+### Тип 8: Weak enhancer 
 ![Image](/GenomeBrowser/state_8.png)
 Выражен в H3K4me1. Попадает на интрон. 
-### Weak enhancer 
+### Тип 9: Weak enhancer 
 ![Image](/GenomeBrowser/state_9.png)
 Выражен в H3K79me2, H3K4me1. Попадает на интрон.
-### Weak transcribed 
+### Тип 10: Weak transcribed 
 ![Image](/GenomeBrowser/state_10.png)
 Выражен в H3K79me2. Попадает на экзон или интрон. 
-### Weak transcribed
+### Тип 11: Weak transcribed
 ![Image](/GenomeBrowser/state_11.png)
 Выражен в H3K36me3, H3K79me2. Попадает на экзон или интрон. 
-### Weak transcribed 
+### Тип 12: Weak transcribed 
 ![Image](/GenomeBrowser/state_12.png)
 Выражен в H3K36me3. Попадает на экзон или интрон.
-### Repressed 
+### Тип 13: Repressed 
 ![Image](/GenomeBrowser/state_13.png)
 Не попадает на ген.
-### Heterochromatin 
+### Тип 14: Heterochromatin 
 ![Image](/GenomeBrowser/state_14.png)
 Выражен в H3K27me3. Не попадает на ген. 
-### Heterochromatin 
+### Тип 15: Heterochromatin 
 ![Image](/GenomeBrowser/state_15.png)
 Выражен в H3K9me3. Не попадает на ген. 
 
