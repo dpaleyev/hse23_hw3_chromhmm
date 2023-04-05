@@ -1,4 +1,4 @@
-# hse_hw3_chromhmm
+# hse23_hw3_chromhmm
 
 ## Colab
 [colab](https://colab.research.google.com/drive/1GdsVmVo6jLau76amKugonuoXS5fLi9W3?usp=sharing)
