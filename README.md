@@ -51,49 +51,49 @@ A549 | H3K27me3 | H3K27me3.bam | Control.bam
 ## Эпигенетические типы
 
 ### Active Promoter 
-![Image](/data/state_1.png)
+![Image](/GenomeBrowser/state_1.png)
 Выражен в H3K27me3, H3K4me3, H3K4me2. Попадает на интрон или экзон.
 ### Weak enhancer/Weak transcribed 
-![Image](/data/state_2.png)
+![Image](/GenomeBrowser/state_2.png)
 Выражен в H3K4me2, H3K4me1. Попадает на интрон. 
 ### Strong enhancer/Transcriptional elogation 
-![Image](/data/state_3.png)
+![Image](/GenomeBrowser/state_3.png)
 Выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2, H3K4me1. Попадает на интрон. 
 ### Active Promoter 
-![Image](/data/state_4.png)
+![Image](/GenomeBrowser/state_4.png)
 Выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2. Попадает на интрон или экзон. 
 ### Active Promoter 
-![Image](/data/state_5.png)
+![Image](/GenomeBrowser/state_5.png)
 Выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2. Попадает на интрон или экзон.
 ### Weak enhancer 
-![Image](/data/state_6.png)
+![Image](/GenomeBrowser/state_6.png)
 Выражен в H3K79me2, H3K9ac, H3K27ac, H3K4me3, H3K4me2. Попадает на интрон.
 ### Weak enhancer
-![Image](/data/state_7.png)
+![Image](/GenomeBrowser/state_7.png)
 Выражен в H3K9ac, H3K27ac, H3K4me1. Попадает на интрон.
 ### Weak enhancer 
-![Image](/data/state_8.png)
+![Image](/GenomeBrowser/state_8.png)
 Выражен в H3K4me1. Попадает на интрон. 
 ### Weak enhancer 
-![Image](/data/state_9.png)
+![Image](/GenomeBrowser/state_9.png)
 Выражен в H3K79me2, H3K4me1. Попадает на интрон.
 ### Weak transcribed 
-![Image](/data/state_10.png)
+![Image](/GenomeBrowser/state_10.png)
 Выражен в H3K79me2. Попадает на экзон или интрон. 
 ### Weak transcribed
-![Image](/data/state_11.png)
+![Image](/GenomeBrowser/state_11.png)
 Выражен в H3K36me3, H3K79me2. Попадает на экзон или интрон. 
 ### Weak transcribed 
-![Image](/data/state_12.png)
+![Image](/GenomeBrowser/state_12.png)
 Выражен в H3K36me3. Попадает на экзон или интрон.
 ### Repressed 
-![Image](/data/state_13.png)
+![Image](/GenomeBrowser/state_13.png)
 Не попадает на ген.
 ### Heterochromatin 
-![Image](/data/state_14.png)
+![Image](/GenomeBrowser/state_14.png)
 Выражен в H3K27me3. Не попадает на ген. 
 ### Heterochromatin 
-![Image](/data/state_15.png)
+![Image](/GenomeBrowser/state_15.png)
 Выражен в H3K9me3. Не попадает на ген. 
 
 
